@@ -16,14 +16,14 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Original Repo
-Original Repo Link (.pug / .html ) - [Click Me](https://github.com/lrmn7/pixel-portfolio-theme)🗄️
-Credits - [L RMN](https://github.com/lrmn7)
+Original Repo Link (.pug / .html ) - [Click Me](https://github.com/anas-ike/port-file/)🗄️
+Credits - [L RMN](https://github.com/anas-ike)
 
 ## Support me
 
-- 👉 🇮🇩 [Trakteer](https://trakteer.id/lrmn)
-- 👉 🌍 [BuyMeACoffe](https://www.buymeacoffee.com/lrmn)
-- 👉 🌍 [Ko-Fi](https://ko-fi.com/lrmn7)
+- 👉 🇮🇩 [Trakteer](https://trakteer.id/)
+- 👉 🌍 [BuyMeACoffe](https://www.buymeacoffee.com/)
+- 👉 🌍 [Ko-Fi](https://ko-fi.com/)
 
 ---
 
