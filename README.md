@@ -17,7 +17,7 @@ Please make sure to update tests as appropriate.
 
 ## Original Repo
 Original Repo Link (.pug / .html ) - [Click Me](https://github.com/anas-ike/port-file/)🗄️
-Credits - [L RMN](https://github.com/anas-ike)
+Credits - [Lights.out.#0](https://github.com/anas-ike)
 
 ## Support me
 
@@ -27,12 +27,18 @@ Credits - [L RMN](https://github.com/anas-ike)
 
 ---
 
+<br>
+
+## Support Server
+
+[![Server Invite](https://discordapp.com/api/guilds/1210364441774788668/embed.png?style=banner2)](https://discord.com/invite/PqVQgXTweC)
+
 ## Screenshots
 
 ![home](https://media.discordapp.net/attachments/1091192083852828744/1109948128683110530/Screenshot_2023-05-22_at_03-48-26_L_RMN.png?width=806&height=401)
 
 ## License
-Copyright © 2023 by [L RMN](https://is-a.fun/)
+Copyright © 2023 by [Lights.out.#0](https://lightsout.theelf.tech/)
 
 
 
