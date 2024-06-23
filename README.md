@@ -27,11 +27,10 @@ Credits - [Lights.out.#0](https://github.com/anas-ike)
 
 ---
 
-<br>
+<a href="https://discord.com/invite/PqVQgXTweC">
+  <img src="https://invidget.switchblade.xyz/PqVQgXTweC" alt="Discord Server">
+</a>
 
-## Support Server
-
-[![Server Invite](https://discordapp.com/api/guilds/1210364441774788668/embed.png?style=banner2)](https://discord.com/invite/PqVQgXTweC)
 
 ## Screenshots
 
